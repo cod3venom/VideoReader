@@ -1,0 +1,12 @@
+C:\Users\Tengo\source\repos\VideoReader\VideoReader\bin\Debug\FFMPEG\ffmpeg.exe
+C:\Users\Tengo\source\repos\VideoReader\VideoReader\bin\Debug\FFMPEG\ffplay.exe
+C:\Users\Tengo\source\repos\VideoReader\VideoReader\bin\Debug\FFMPEG\ffprobe.exe
+C:\Users\Tengo\source\repos\VideoReader\VideoReader\bin\Debug\VideoReader.dll
+C:\Users\Tengo\source\repos\VideoReader\VideoReader\bin\Debug\VideoReader.pdb
+C:\Users\Tengo\source\repos\VideoReader\VideoReader\obj\Debug\VideoReader.csproj.AssemblyReference.cache
+C:\Users\Tengo\source\repos\VideoReader\VideoReader\obj\Debug\VideoReader.csproj.CoreCompileInputs.cache
+C:\Users\Tengo\source\repos\VideoReader\VideoReader\obj\Debug\VideoReader.dll
+C:\Users\Tengo\source\repos\VideoReader\VideoReader\obj\Debug\VideoReader.pdb
+C:\Users\Tengo\source\repos\VideoReader\VideoReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tengo\source\repos\VideoReader\VideoReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tengo\source\repos\VideoReader\VideoReader\obj\Debug\VideoReader.csproj.CopyComplete
